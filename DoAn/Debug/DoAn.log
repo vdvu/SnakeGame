@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\KTLT\TH\DoAn\DoAn\main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\KTLT\TH\DoAn\DoAn\main.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\KTLT\TH\DoAn\DoAn\main.cpp(411): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\KTLT\TH\DoAn\DoAn\main.cpp(420): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\KTLT\TH\DoAn\DoAn\main.cpp(818): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DoAn.vcxproj -> D:\KTLT\TH\DoAn\Debug\DoAn.exe
